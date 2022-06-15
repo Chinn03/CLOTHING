@@ -11,3 +11,4 @@ We made page dynamically by using JavaScript. If you see the code, Inside the fu
 selecting nav element using querySelector method. And then writing its HTML using innerHTML. And 
 the value of innerHTML is the same HTML elements that we have made in index.html file. We now 
 removed the HTML elements from there and imported in nav.js
+![404](https://user-images.githubusercontent.com/90833482/173864879-455013ec-e3c4-4f61-85e2-a8566b13565e.png)
